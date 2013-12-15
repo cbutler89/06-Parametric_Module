@@ -1,5 +1,5 @@
-01_OS3DF_4cmObject
+About: Parametric Module
 ==================
 
-Made on the first day of class.
-It's a cube made in OpenSCAD. It's 4cm in the longest direction.
+An object created in OpenSCAD, made from parametric modules. This object is based off of my previous cube object. The parametric variables in this version are the Cube's size, the size of its holes, and the contained sphere's size.
+
